@@ -1,0 +1,86 @@
+#header {
+    background: #492b9d;
+    padding: 20px 0;
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#afetados (as) {
+ font-size: 900%;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+
+
+
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+.principal {
+    background: #65278c;
+    padding: 20px;
+}
+
+.tituloprincipal {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#adolescente {
+   width: 70%;
+  height: 20px;
+  margin: 200px;
+}
+
+#capa {
+    width: 90%;
+    height: 66;
+}
+
+p {
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    background: #000000;
+    padding: 40px 0;
+}
+
+.copyrights {
+    color: #4733b4;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
+
