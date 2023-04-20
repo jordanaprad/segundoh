@@ -9,17 +9,6 @@
     margin: 0 auto;
 }
 
-#afetados (as) {
- font-size: 900%;
- font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-}
-
-
-
-
-
-
 nav {
     position: absolute;
     top: 110px;
@@ -33,15 +22,16 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
 }
 
 nav a:hover {
-    color: #C78C19;
+    color: #3f41c4;
     text-decoration: underline;
+    font-size: large;
 }
 
 .principal {
@@ -68,8 +58,8 @@ nav a:hover {
 
 p {
     text-align: center;
-    font-size: 22px;
-    padding: 10px;
+    font-size: 30px;
+    padding: 15px;
 }
 
 footer {
